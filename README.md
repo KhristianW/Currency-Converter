@@ -2,8 +2,11 @@
 A simple Currency Converter using JFrame
 
 This code only has 6 currencies to choose from (U.S. Dollar, Euro, Japanese Yen, Korean Won, British Pound, and Philippine peso)
-If you want to add your own currencies, just read the code and implement your currency like how I have the other currencies formatted
+
+If you want to add your own currencies, just read the code and implement your currency like how I have the other currencies formatted.
 Also note that you may need to update the currency exchange rate as the code may be outdatted.
+
+When you look at the currency exchange rate methods, the else at the end of the else-if statements are for the British Pound.
 
 There's nothing you need to type or do when you get the code in the program, just run it.
 
