@@ -1,5 +1,5 @@
 # Currency-Converter
-A simple Currency Converter using JFrame
+A simple java Currency Converter using JFrame
 
 This code only has 6 currencies to choose from (U.S. Dollar, Euro, Japanese Yen, Korean Won, British Pound, and Philippine peso)
 
